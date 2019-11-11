@@ -1,0 +1,10 @@
+API-Application Programming Interface
+Clent-Entity which is using API, by executing HTTP(s) clls
+Server-Wntity which serves API, by providing a response to HTTP(s) calls
+JSON-lightweight data interchange format
+etity-сущность 
+to serve-предоставлять
+response-отзыв ответ
+intchange-омбен +
+
+
